@@ -20,4 +20,12 @@
 - Player 2 wins.
 - Draw.
 
+### Demo
+
 ![server](https://user-images.githubusercontent.com/49400714/107013589-e4439600-67dd-11eb-91af-06a5f2d460e1.JPG)
+
+- You will see this when your server runs without any error
+
+![play](https://user-images.githubusercontent.com/49400714/107013716-0d642680-67de-11eb-931c-81d7c0f80920.JPG)
+
+- Demo of playing the game
