@@ -20,3 +20,4 @@
 - Player 2 wins.
 - Draw.
 
+![server](https://user-images.githubusercontent.com/49400714/107013589-e4439600-67dd-11eb-91af-06a5f2d460e1.JPG)
