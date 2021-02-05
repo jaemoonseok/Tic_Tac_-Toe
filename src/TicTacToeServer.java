@@ -34,7 +34,7 @@ public class TicTacToeServer {
 		currentPlayer = currentPlayer.opponent;
 	}
 
-	class Player implements Runnable {
+	public class Player implements Runnable {
 		char mark;
 		Player opponent;
 		Socket socket;
@@ -100,7 +100,6 @@ public class TicTacToeServer {
 				} else if (tie()) {
 					o.println("TIE");
 					opponent.o.println("TIE");
-
 				}
 			} catch (IllegalStateException e) {
 				o.println("MESSAGE" + e.getMessage());
